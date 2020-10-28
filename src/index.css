@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.root {
+  display: inline-block;
+  width: 100%;
+  min-height: 100vh;
+  text-align: center;
+}
+.letter {
+  font-size: 78px;
+  color: #728bba;
+  font-weight: 600;
+  font-family: Calibri, bold;
+}
